@@ -1,0 +1,7 @@
+C:\Users\Isabela Ribeiro\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csprojAssemblyReference.cache
+C:\Users\Isabela Ribeiro\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Isabela Ribeiro\source\repos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+C:\Users\Isabela Ribeiro\source\repos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+C:\Users\Isabela Ribeiro\source\repos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+C:\Users\Isabela Ribeiro\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+C:\Users\Isabela Ribeiro\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
